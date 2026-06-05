@@ -1,0 +1,10 @@
+KEY NUMBERS (test set, seed=42)
+RQ1  Gradient Boosting AUC 0.9297 vs Logistic Regression 0.9049
+     -> black-box advantage = 2.48 AUC points; depth-4 tree 0.8743
+RQ2  sweet spot at depth 8 (132 leaves),
+     CV AUC 0.9018 vs best tree 0.9021
+RQ3  Spearman rank agreement between model explanations: rho = 0.839
+RQ4  black-box advantage overall 0.0248 AUC; per-group range
+     0.0177 .. 0.0333
+RQ5  depth-6 surrogate: fidelity 0.9544,
+     accuracy 0.8610 (teacher 0.8750)

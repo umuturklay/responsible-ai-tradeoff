@@ -1,0 +1,9 @@
+attribute,group,n_test,positive_rate,auc_logreg,auc_gb,blackbox_advantage
+overall,All,9769,0.2393,0.9049,0.9297,0.0248
+sex,Female,3259,0.1108,0.9291,0.9475,0.0184
+sex,Male,6510,0.3037,0.8811,0.9121,0.031
+race,Black,968,0.1333,0.9275,0.9557,0.0281
+race,White,8312,0.2531,0.9014,0.9267,0.0253
+race,Asian-Pac-Islander,311,0.2637,0.8812,0.8989,0.0177
+race,Other,82,0.122,0.9389,0.9722,0.0333
+race,Amer-Indian-Eskimo,96,0.1354,0.8962,0.9212,0.025

@@ -1,0 +1,5 @@
+model,category,cv_accuracy_mean,cv_accuracy_std,cv_f1_mean,cv_f1_std,cv_auc_mean,cv_auc_std,test_accuracy,test_f1,test_auc,fit_time_s,n_decision_units
+Logistic Regression,interpretable,0.8514,0.0049,0.6591,0.0097,0.9064,0.0038,0.8554,0.6649,0.9049,0.209,91
+Decision Tree (depth 4),interpretable,0.8427,0.0038,0.6174,0.0133,0.8768,0.0028,0.8455,0.6269,0.8743,0.0797,16
+Random Forest,black-box,0.8469,0.0026,0.6578,0.0063,0.8938,0.005,0.8518,0.665,0.8973,4.9455,2013240
+Gradient Boosting,black-box,0.872,0.0043,0.7089,0.0087,0.9279,0.0026,0.875,0.7139,0.9297,1.4034,2635

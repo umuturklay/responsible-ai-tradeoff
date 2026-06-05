@@ -1,0 +1,13 @@
+feature,importance_logreg,rank_logreg,importance_gb,rank_gb,spearman_rho_all_features
+marital-status,0.1387,1,0.1022,1,0.8392
+capital-gain,0.0385,3,0.0625,2,0.8392
+age,0.0072,7,0.0409,3,0.8392
+education-num,0.0388,2,0.0309,4,0.8392
+occupation,0.0195,4,0.013,5,0.8392
+capital-loss,0.0048,9,0.0127,6,0.8392
+hours-per-week,0.0094,6,0.0125,7,0.8392
+relationship,0.0094,5,0.0028,8,0.8392
+workclass,0.0023,10,0.0024,9,0.8392
+sex,0.0069,8,0.0014,10,0.8392
+native-country,0.0017,11,0.001,11,0.8392
+race,0.0005,12,0.0006,12,0.8392
