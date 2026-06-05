@@ -75,5 +75,4 @@ figures and tables exactly.
 
 AI tools (Claude) were used in line with the module instructions: refining
 research questions, generating and iterating on the analysis code, and
-drafting the workflow layout. All code was executed, verified, and is
-explained by the student; all results come from real data.
+drafting the workflow layout. All code was executed and verified ; all results come from real data.
