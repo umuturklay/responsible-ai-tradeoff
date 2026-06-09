@@ -1,13 +1,10 @@
 __pycache__/
 .DS_Store
 .ipynb_checkpoints/
+~$*
 
-# personal study notes - not part of the submission
-DEFENSE_NOTES.md
-POSTER_GUIDE.md
-
-# local tooling and poster-prep material - not part of the submission
-build_notebook.py
-workflow_figure.py
+# local working files — not part of the submission
+local/
+20[0-9][0-9]-*.txt
+*.png
 outputs/figures/workflow_draft.*
-outputs/figures/*.png
